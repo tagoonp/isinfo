@@ -1,1 +1,2 @@
-# isinfo
+# isinfos
+Injury Surveillance Information System
